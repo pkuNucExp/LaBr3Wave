@@ -11,7 +11,7 @@ For LaBr3 waveform under 500MHz sampling rate, the range of influence of a singl
 Meanwhile, the range from 20 samples to the left of the peak to 80 samples to the right of the peak is considered as effective. The amplitude can be neglected outside this range for a single pulse.
 
 ```cpp
-std::vector<int> wave;        // original waveform
+std::vector<int> wave;        // original waveform, to be initialized
 int npnt = wave.size();
 const int length = 100;         // range of influence
 const int rangeleft = -20;      // effective wave range left
