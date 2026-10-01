@@ -1,5 +1,8 @@
 # Pile-up recovery algorithm
 
+- [Nuclear Instruments and Methods in Physics Research A 1063 (2024) 169273](https://doi.org/10.1016/j.nima.2024.169273)
+
+
 Based on CERN ROOT v6.20.06
 
 ## Original waveform
